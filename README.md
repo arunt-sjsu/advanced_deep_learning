@@ -1,1 +1,2 @@
-# advanced_deep_learning
+# Advanced Deep Learning
+## The repository contains advanced deep learning exercises

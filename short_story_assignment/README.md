@@ -9,4 +9,4 @@ https://morgenrot.medium.com/multi-task-learning-for-dense-prediction-tasks-a-pe
 
 The presentation can be below:
 
-https://www.slideshare.net/ArunTalkad1/multitask-learning-for-dense-prediction-tasks-in-computer-vision
+https://www.slideshare.net/ArunTalkad1/mlt-for-dense-predictions
